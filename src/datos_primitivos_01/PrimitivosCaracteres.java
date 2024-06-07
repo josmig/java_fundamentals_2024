@@ -1,4 +1,4 @@
-package datos_primitivos;
+package datos_primitivos_01;
 
 public class PrimitivosCaracteres {
     public static void main(String [] args){

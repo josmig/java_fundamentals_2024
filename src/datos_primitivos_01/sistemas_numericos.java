@@ -1,4 +1,4 @@
-package datos_primitivos;
+package datos_primitivos_01;
 
 import javax.swing.JOptionPane;
 
